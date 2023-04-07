@@ -36,7 +36,7 @@ name_translation_model-kfold-10.h5
 
 Contact
 
-Please Contact me on navid.basseri@outlook.com
+Please Contact me on basseri@outlook.com
 
 
 Thanks
