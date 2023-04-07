@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Fa2EnNames-10-Fold.ipynb
+"""Fa2EnNames-10-Fold
 """
 
 import os
@@ -8,7 +8,9 @@ import numpy as np
 import pandas as pd
 import locale
 
+# Maximum Lenght of terms
 MaxLen=50
+# Total Words in dataset
 TotalNames=8541
 
 #I used Colab for train with Dataset.xlsx in the same directory
