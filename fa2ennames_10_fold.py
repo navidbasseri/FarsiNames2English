@@ -11,7 +11,7 @@ import locale
 # Maximum Lenght of terms
 MaxLen=50
 # Total Words in dataset
-TotalNames=8541
+TotalNames=8576
 
 #I used Colab for train with Dataset.xlsx in the same directory
 #If you use local computer for training you can use this code to load the dataset
