@@ -39,5 +39,4 @@ Contact
 Please Contact me on basseri@outlook.com
 
 
-Thanks
-Thanks to google Colab and Kaggle for proccessing facilities...
+
